@@ -4,11 +4,11 @@ Annotation:
 
 ·Framwork
 
-	Pytorch
+  Pytorch
 
 ·Dataset
 
-	In this case, I wrote a script to divide VOC2012 dataset into tree parts as train\validation\test,the proportion is 8:1:1.And each part hava a images directory and a tags.txt.The tags.txt record the image path and label.So you can use this file to batch load the input data.Paticularly,the label normally hava more than one tag refer to the Annonciation.xml which you can easily find in the VOC2012 dataset.(If necessary,email dssbxxpersonal@163.com for the script) 
+  In this case, I wrote a script to divide VOC2012 dataset into tree parts as train\validation\test,the proportion is 8:1:1.And each part hava a images directory and a tags.txt.The tags.txt record the image path and label.So you can use this file to batch load the input data.Paticularly,the label normally hava more than one tag refer to the Annonciation.xml which you can easily find in the VOC2012 dataset.(If necessary,email dssbxxpersonal@163.com for the script) 
 
 ·Model
 
