@@ -11,9 +11,9 @@
 
 ## * Model
 
-For generality,the offical code of ResNet model is too fussy.So i simpled a brief model only for ResNet-50.
+* For generality,the offical code of ResNet model is too fussy.So i simpled a brief model only for ResNet-50.
 
-[He Kaiming's paper about ResNet](https://arxiv.org/abs/1512.03385)
+[He Kaiming's paper about ResNet](https://arxiv.org/abs/1512.03385)  
 [Official code of ResNet](https://github.com/tensorflow/models/blob/master/research/slim/nets/resnet_v2.py)
 
 ## * Loss and Acuuracy for K-labels problem
